@@ -6,3 +6,11 @@ h1 {
 li {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+li.homeNav {
+  border: solid 2px;
+  margin: 10px;
+  padding: 5px;
+  background-color: salmon;
+  list-style: none;
+}
